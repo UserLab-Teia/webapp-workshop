@@ -1,0 +1,14 @@
+{
+  "name": "webapp-workshop",
+  "version": "1.0.0",
+  "description": "Web app workshop para probar dependabot alerts",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
